@@ -12,7 +12,6 @@ my_list.sort()
 print(f'Largest number {my_list[(len(my_list)-2)]}')
 
 
-
     
 
 
